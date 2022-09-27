@@ -1,0 +1,11 @@
+F:\Programme\Git\Hello_World_App\bin\Debug\Hello_World_App.exe.config
+F:\Programme\Git\Hello_World_App\bin\Debug\Hello_World_App.exe
+F:\Programme\Git\Hello_World_App\bin\Debug\Hello_World_App.pdb
+F:\Programme\Git\Hello_World_App\obj\Debug\Hello_World_App.csproj.AssemblyReference.cache
+F:\Programme\Git\Hello_World_App\obj\Debug\Hello_World_App.csproj.SuggestedBindingRedirects.cache
+F:\Programme\Git\Hello_World_App\obj\Debug\Hello_World_App.Form1.resources
+F:\Programme\Git\Hello_World_App\obj\Debug\Hello_World_App.Properties.Resources.resources
+F:\Programme\Git\Hello_World_App\obj\Debug\Hello_World_App.csproj.GenerateResource.cache
+F:\Programme\Git\Hello_World_App\obj\Debug\Hello_World_App.csproj.CoreCompileInputs.cache
+F:\Programme\Git\Hello_World_App\obj\Debug\Hello_World_App.exe
+F:\Programme\Git\Hello_World_App\obj\Debug\Hello_World_App.pdb
